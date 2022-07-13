@@ -8,7 +8,7 @@ var config = {
     address: "现居佛山南海",
     qq: "1398152890",
     log: "lvmao_coder",
-    excpect_work: "后端开发学习中",
+    excpect_work: "后端开发",
 
 
     /*在这里配置首页的座右铭集合*/
