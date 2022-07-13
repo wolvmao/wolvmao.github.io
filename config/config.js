@@ -1,14 +1,14 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "王浩然",
+    name: "吕懋",
     sex: "男",
-    age: "20",
-    phone: "15123813662",
-    email: "20192519@cqu.edu.cn",
-    address: "现居重庆市重庆大学虎溪校区",
-    qq: "609190761",
-    log: "Ming_coder",
-    excpect_work: "js前端开发",
+    age: "22",
+    phone: "13142335016",
+    email: "1398152890@qq.com",
+    address: "现居佛山南海",
+    qq: "1398152890",
+    log: "lvmao_coder",
+    excpect_work: "后端开发学习中",
 
 
     /*在这里配置首页的座右铭集合*/
@@ -19,12 +19,12 @@ var config = {
 
 
     /*在这里配置首页的见面信息，你可以内嵌HTML标签以调整格式*/
-    welcome:  ["你好，我是王浩然，重庆大学自动化学院大三在读<br>" +
+    welcome:  ["你好，我是吕懋，长沙理工大学大三在读<br>" +
              "很高兴见到你!",],
 
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about:[ "掌握JavaScript HTML CSS开发，熟悉主流js框架如vue，熟悉嵌入式开发，计算机硬件基础，自动控制"],
+    about:[ "掌握JavaScript HTML CSS开发，熟悉主流js框架如vue，熟悉嵌入式开发，计算机硬件基础，Spingboot框架"],
 
 
     /**
