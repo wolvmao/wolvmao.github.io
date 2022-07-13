@@ -77,10 +77,10 @@ var config = {
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "./images/intro-bg.jpg",
-        "./images/2.jpg",
-        "./images/work-bk.png",  //jpg png混着用，真下头
-        "./images/4.jpg"
+        "./images/intro-bg.png ",
+        "./images/wallhaven-8oq8wk_2880x1800.png ",
+        "./images/wallhaven-rd8eg7_2880x1800.png",  //jpg png混着用，真下头
+        "./images/wallhaven-v9ele8_2880x1800.png "
     ]
 
 }
